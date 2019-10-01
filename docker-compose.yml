@@ -1,6 +1,6 @@
 version: "3"
 services:
-  employee-jdbc:
+  app-demo:
     image: demo:latest
     ports:
       - "8080:8080"
