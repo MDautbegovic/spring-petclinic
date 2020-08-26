@@ -13,7 +13,7 @@ services:
     networks:
       - app-db
     environment:
-      - MYSQL_ROOT_PASSWORD=petclinic 
+      - MYSQL_ROOT_PASSWORD=Petclinic 
       - MYSQL_DATABASE=petclinic   
 
 networks:
